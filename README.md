@@ -21,3 +21,7 @@ This is a desktop application for creating a watchlist from movies and series fo
 | Main screen | Search screen |
 | :---: | :---: |
 | ![](/screenshots/Screenshot_2022-05-24_235208.png) | ![](/screenshots/Screenshot_2022-05-24_235339.png) |
+
+## Technical details
+
+The app is written in Java, using the Swing framework for the UI. JSON parsing is done by Google's GSON library.
